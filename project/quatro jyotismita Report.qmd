@@ -1,0 +1,142 @@
+---
+title: "MT5000, Quarto Assignment"
+subtitle: "Exploring the obs_value(observation Value) among Indicators taken from Unicef Data in different countries at different Time frame"
+author: "Jyotismita Kalita, ID -23267726"
+date: "2024-04-25"
+format:
+  html:
+    backgroundcolor: lightblue
+    toc: true
+execute: 
+  echo: false
+  warning: false
+  message: false
+---
+```{r}
+#| label: gapminder-pop
+#| include: false
+
+#libraries
+
+library(tidyverse)
+library(plotly)
+library(ggplot2)
+library(maps)
+library(dplyr)
+
+#data
+
+data_left <- read.csv (file = "unicef_indicator_1.csv")
+data_right <-read.csv (file = "unicef_indicator_2.csv")
+
+#transformations
+
+data_join <- full_join(data_left, data_right)
+
+data_join <- data_left %>%
+  full_join(data_right, by = c("country", "current_age"))
+
+```
+
+```{r}
+#| fig-cap: "The above map shows a relationship between countries and its obs_value found. The obs_value represents the indicator - child labour counts taken from UNICEF annual data report of those particular marked countries. It has also shown the total measure obs_value i.e total amount of child labor in those particular countries from a scale of 0- 60  "
+
+map_world <-map_data("world")
+
+map_data_join <- left_join(map_world, data_join, by = c("region" = "country"), relationship = "many-to-many")
+
+ggplot(data = map_data_join,  aes(x = long, y = lat, group = group, fill = obs_value.x))+
+  #Add a black border to the polygons
+  geom_polygon()+
+  #specify the gradient colors
+  scale_fill_gradient(low = "darkgreen",high = "yellow") +
+  geom_polygon(color = "white") +
+  labs(
+    title = "Map of Observed Values of different Countries",
+    x = "Longitude",
+    y = "Latitude",
+    fill = "Observed Value"
+  ) +
+  theme_classic()
+
+```
+```{r}
+#| fig-cap: "The above bar graph shows the observation value of child labor thesholds by countries in the year 2011. the above countries shown are those who have been observed to have involved in child labour according to the UNICEF data. Further, to make it more clear and precise, a gender difference is allocated to compare the amount of male and female involved in child labour in the year 2011"
+
+data_join_filtered <- data_join %>% 
+  filter(time_period.x == "2011")
+
+child_labor_counts <- data_join_filtered %>%
+  group_by(country, sex.x) %>%
+  summarise( indicator = sum(obs_value.x))
+
+color_palette <- c("Male" = "blue", "Female" = "pink", "Total" = "red")
+
+ggplot(data = child_labor_counts, aes(x = country, y = indicator, fill = sex.x)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_manual(values = color_palette) +  # Apply custom colors
+  labs(
+    title = " Bar Graph showing Child Labor(thresholds) by Country and Gender in the year (2011)",
+    x = "Country",
+    y = "child labour thresholds"
+  ) +
+  facet_wrap(~ sex.x, scales = "free", ncol = 1) +  # Facet by sex
+  theme_minimal()
+```
+```{r}
+#| fig-cap: "The above scatter plot chart shown with a regression line talks about the observation value of different countries taken into account. Countries like - afghanistan,albania, bangladesh, India, mexico, nigerai,paraguay and ukraine which have a medium to high involvement in child labour according to the UNICEF data are considered.It is then divided by gender through different colours of the plots in the chart to analyse the total amount of male and female involved in those countries"
+
+selected_countries <- c("Afghanistan", "Albania", "Bangladesh", "India", "Mexico", "Nigeria", "Ukraine", "Brazil", "Paraguay")
+
+scatter_data <- data_join %>%
+  filter(obs_value.x > 0) %>%
+  select(country, obs_value.x, sex.x)
+
+selected_countries <- c("Afghanistan", "Albania", "Bangladesh", "India", "Mexico", "Nigeria", "Ukraine", "Brazil", "Paraguay")
+scatter_data_filtered <- scatter_data %>%
+  filter(country %in% selected_countries)
+
+ggplot(scatter_data_filtered, aes(x = country, y = obs_value.x, color = sex.x)) +
+  geom_point(size = 4) +
+  geom_smooth (aes(group = sex.x) ,method = "lm", se = FALSE,color = "maroon", linetype = "dashed", size = 0.5 ) +  # Add linear regression line
+  labs(
+    title = "Scatter Plot of Observed Values by Countries",
+    x = "Country",
+    y = "Observed Value"
+  ) +
+  theme_minimal()
+```
+
+```{r}
+#| fig-cap: "The above chart talks about time series plot taking into account its observation value and a particular time period.The time period taken into account is from 2005-2020 and then filtering it according to the highest observation value found in countries. The countries with highest observation value found in these time period are - Somalia, Ethiopia, Rwanda, Yemen & Burkina Faso. Since these countries are reported to be the highest countries involved in child labour data, strict and necessary actions should be taken to lower the practise for the betterment of children over those countries"
+
+timeseries_data <- data_join %>%
+  filter(!is.na(obs_value.x)) 
+
+top_countries <- timeseries_data %>%
+  group_by(country) %>%
+  summarise(max_obs_value = max(obs_value.x)) %>%
+  arrange(desc(max_obs_value)) %>%
+  top_n(6)
+
+cat("Top 6 countries with highest observed values:\n")
+print(top_countries$country)
+
+timeseries_data_filtered <- timeseries_data %>%
+  filter(country %in% top_countries$country)
+
+ggplot(timeseries_data_filtered, aes(x = time_period.x, y = obs_value.x, color = obs_value.x)) +
+  geom_line() +
+  scale_color_gradient(low = "blue", high = "red") +  # Adjust gradient colors
+  labs(
+    title = "Time Series Plot of Observed Values over Time (Top 6 Countries)",
+    x = "Time Period",
+    y = "Observed Value",
+    color = "Observed Value"
+  ) +
+  theme_classic()
+```
+
+#Conclusions and Recommendations
+
+Lastly, the things that I want to recommend is that the UNICEF data should be pondered over and visualised carefully to help policy makers as well the people of UNICEF and United nations decide the impact the child labour in the above major countries and take strict actions accordingly.

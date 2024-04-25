@@ -1,0 +1,256 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Child labour thresholds (household chores),2011,22.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Afghanistan,AF,AFG,4,Child labour thresholds (household chores),2011,13.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Afghanistan,AF,AFG,4,Child labour thresholds (household chores),2011,17.7,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Albania,AL,ALB,8,Child labour thresholds (household chores),2005,1.7,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Albania,AL,ALB,8,Child labour thresholds (household chores),2005,.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Albania,AL,ALB,8,Child labour thresholds (household chores),2005,1,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Algeria,DZ,DZA,12,Child labour thresholds (household chores),2019,.9,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Algeria,DZ,DZA,12,Child labour thresholds (household chores),2019,.6,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Algeria,DZ,DZA,12,Child labour thresholds (household chores),2019,.7,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Angola,AO,AGO,24,Child labour thresholds (household chores),2016,14.6,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Angola,AO,AGO,24,Child labour thresholds (household chores),2016,11.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Angola,AO,AGO,24,Child labour thresholds (household chores),2016,13.2,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Argentina,AR,ARG,32,Child labour thresholds (household chores),2012,.9,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Argentina,AR,ARG,32,Child labour thresholds (household chores),2012,.4,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Argentina,AR,ARG,32,Child labour thresholds (household chores),2012,.6,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Armenia,AM,ARM,51,Child labour thresholds (household chores),2010,.1,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Armenia,AM,ARM,51,Child labour thresholds (household chores),2010,.1,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Armenia,AM,ARM,51,Child labour thresholds (household chores),2010,.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Bangladesh,BD,BGD,50,Child labour thresholds (household chores),2019,2.5,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Bangladesh,BD,BGD,50,Child labour thresholds (household chores),2019,.2,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Bangladesh,BD,BGD,50,Child labour thresholds (household chores),2019,1.3,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Barbados,BB,BRB,52,Child labour thresholds (household chores),2012,0,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Barbados,BB,BRB,52,Child labour thresholds (household chores),2012,.2,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Barbados,BB,BRB,52,Child labour thresholds (household chores),2012,.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Belarus,BY,BLR,112,Child labour thresholds (household chores),2019,0,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Belarus,BY,BLR,112,Child labour thresholds (household chores),2019,0,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Belarus,BY,BLR,112,Child labour thresholds (household chores),2019,0,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Belize,BZ,BLZ,84,Child labour thresholds (household chores),2011,1.7,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Belize,BZ,BLZ,84,Child labour thresholds (household chores),2011,1.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Belize,BZ,BLZ,84,Child labour thresholds (household chores),2011,1.7,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Benin,BJ,BEN,204,Child labour thresholds (household chores),2012,17.6,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Benin,BJ,BEN,204,Child labour thresholds (household chores),2012,10.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Benin,BJ,BEN,204,Child labour thresholds (household chores),2012,14.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Bhutan,BT,BTN,64,Child labour thresholds (household chores),2010,4.5,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Bhutan,BT,BTN,64,Child labour thresholds (household chores),2010,2.2,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Bhutan,BT,BTN,64,Child labour thresholds (household chores),2010,3.4,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Bosnia and Herzegovina,BA,BIH,70,Child labour thresholds (household chores),2006,0,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Bosnia and Herzegovina,BA,BIH,70,Child labour thresholds (household chores),2006,0,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Bosnia and Herzegovina,BA,BIH,70,Child labour thresholds (household chores),2006,0,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Burkina Faso,BF,BFA,854,Child labour thresholds (household chores),2010,27.9,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Burkina Faso,BF,BFA,854,Child labour thresholds (household chores),2010,8.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Burkina Faso,BF,BFA,854,Child labour thresholds (household chores),2010,18,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Burundi,BI,BDI,108,Child labour thresholds (household chores),2017,21.1,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Burundi,BI,BDI,108,Child labour thresholds (household chores),2017,13.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Burundi,BI,BDI,108,Child labour thresholds (household chores),2017,17.6,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Cameroon,CM,CMR,120,Child labour thresholds (household chores),2014,13.2,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Cameroon,CM,CMR,120,Child labour thresholds (household chores),2014,4.6,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Cameroon,CM,CMR,120,Child labour thresholds (household chores),2014,8.8,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Central African Republic,CF,CAF,140,Child labour thresholds (household chores),2019,16.6,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Central African Republic,CF,CAF,140,Child labour thresholds (household chores),2019,12.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Central African Republic,CF,CAF,140,Child labour thresholds (household chores),2019,14.4,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Chad,TD,TCD,148,Child labour thresholds (household chores),2019,28.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Chad,TD,TCD,148,Child labour thresholds (household chores),2019,13.7,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Chad,TD,TCD,148,Child labour thresholds (household chores),2019,20.7,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Comoros,KM,COM,174,Child labour thresholds (household chores),2012,25.4,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Comoros,KM,COM,174,Child labour thresholds (household chores),2012,11.9,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Comoros,KM,COM,174,Child labour thresholds (household chores),2012,18.3,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Congo,CG,COG,178,Child labour thresholds (household chores),2015,5.7,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Congo,CG,COG,178,Child labour thresholds (household chores),2015,5.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Congo,CG,COG,178,Child labour thresholds (household chores),2015,5.5,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Costa Rica,CR,CRI,188,Child labour thresholds (household chores),2018,.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Costa Rica,CR,CRI,188,Child labour thresholds (household chores),2018,.7,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Costa Rica,CR,CRI,188,Child labour thresholds (household chores),2018,.5,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Ivory Coast,CI,CIV,384,Child labour thresholds (household chores),2016,13.7,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Ivory Coast,CI,CIV,384,Child labour thresholds (household chores),2016,5.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Ivory Coast,CI,CIV,384,Child labour thresholds (household chores),2016,9.6,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Child labour thresholds (household chores),2018,11,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Child labour thresholds (household chores),2018,5,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Child labour thresholds (household chores),2018,8,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Djibouti,DJ,DJI,262,Child labour thresholds (household chores),2006,1,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Djibouti,DJ,DJI,262,Child labour thresholds (household chores),2006,.2,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Djibouti,DJ,DJI,262,Child labour thresholds (household chores),2006,.6,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Dominican Republic,DO,DOM,214,Child labour thresholds (household chores),2019,1,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Dominican Republic,DO,DOM,214,Child labour thresholds (household chores),2019,.6,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Dominican Republic,DO,DOM,214,Child labour thresholds (household chores),2019,.8,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Egypt,EG,EGY,818,Child labour thresholds (household chores),2014,3.6,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Egypt,EG,EGY,818,Child labour thresholds (household chores),2014,.7,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Egypt,EG,EGY,818,Child labour thresholds (household chores),2014,2.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+El Salvador,SV,SLV,222,Child labour thresholds (household chores),2014,2.8,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+El Salvador,SV,SLV,222,Child labour thresholds (household chores),2014,.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+El Salvador,SV,SLV,222,Child labour thresholds (household chores),2014,1.8,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Swaziland,SZ,SWZ,748,Child labour thresholds (household chores),2010,2,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Swaziland,SZ,SWZ,748,Child labour thresholds (household chores),2010,1.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Swaziland,SZ,SWZ,748,Child labour thresholds (household chores),2010,1.8,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Ethiopia,ET,ETH,231,Child labour thresholds (household chores),2011,58,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Ethiopia,ET,ETH,231,Child labour thresholds (household chores),2011,48.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Ethiopia,ET,ETH,231,Child labour thresholds (household chores),2011,53,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Gabon,GA,GAB,266,Child labour thresholds (household chores),2012,3.2,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Gabon,GA,GAB,266,Child labour thresholds (household chores),2012,2.9,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Gabon,GA,GAB,266,Child labour thresholds (household chores),2012,3.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Gambia,GM,GMB,270,Child labour thresholds (household chores),2018,11.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Gambia,GM,GMB,270,Child labour thresholds (household chores),2018,2.2,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Gambia,GM,GMB,270,Child labour thresholds (household chores),2018,7.3,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Georgia,GE,GEO,268,Child labour thresholds (household chores),2005,1,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Georgia,GE,GEO,268,Child labour thresholds (household chores),2005,1.6,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Georgia,GE,GEO,268,Child labour thresholds (household chores),2005,1.4,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Ghana,GH,GHA,288,Child labour thresholds (household chores),2018,12.8,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Ghana,GH,GHA,288,Child labour thresholds (household chores),2018,8.7,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Ghana,GH,GHA,288,Child labour thresholds (household chores),2018,10.8,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Guinea,GN,GIN,324,Child labour thresholds (household chores),2016,13.1,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Guinea,GN,GIN,324,Child labour thresholds (household chores),2016,6.9,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Guinea,GN,GIN,324,Child labour thresholds (household chores),2016,10,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Guinea-Bissau,GW,GNB,624,Child labour thresholds (household chores),2019,6.4,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Guinea-Bissau,GW,GNB,624,Child labour thresholds (household chores),2019,2.7,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Guinea-Bissau,GW,GNB,624,Child labour thresholds (household chores),2019,4.6,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Guyana,GY,GUY,328,Child labour thresholds (household chores),2020,1.4,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Guyana,GY,GUY,328,Child labour thresholds (household chores),2020,2.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Guyana,GY,GUY,328,Child labour thresholds (household chores),2020,1.9,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Haiti,HT,HTI,332,Child labour thresholds (household chores),2012,12.7,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Haiti,HT,HTI,332,Child labour thresholds (household chores),2012,7.6,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Haiti,HT,HTI,332,Child labour thresholds (household chores),2012,10.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Honduras,HN,HND,340,Child labour thresholds (household chores),2019,7.7,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Honduras,HN,HND,340,Child labour thresholds (household chores),2019,2.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Honduras,HN,HND,340,Child labour thresholds (household chores),2019,5,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+India,IN,IND,356,Child labour thresholds (household chores),2006,16,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+India,IN,IND,356,Child labour thresholds (household chores),2006,6,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+India,IN,IND,356,Child labour thresholds (household chores),2006,10.8,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Iraq,IQ,IRQ,368,Child labour thresholds (household chores),2018,3.8,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Iraq,IQ,IRQ,368,Child labour thresholds (household chores),2018,.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Iraq,IQ,IRQ,368,Child labour thresholds (household chores),2018,2.3,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Jamaica,JM,JAM,388,Child labour thresholds (household chores),2011,.2,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Jamaica,JM,JAM,388,Child labour thresholds (household chores),2011,.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Jamaica,JM,JAM,388,Child labour thresholds (household chores),2011,.3,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Kazakhstan,KZ,KAZ,398,Child labour thresholds (household chores),2006,3.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Kazakhstan,KZ,KAZ,398,Child labour thresholds (household chores),2006,3.1,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Kazakhstan,KZ,KAZ,398,Child labour thresholds (household chores),2006,3.2,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Kiribati,KI,KIR,296,Child labour thresholds (household chores),2019,13,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Kiribati,KI,KIR,296,Child labour thresholds (household chores),2019,11.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Kiribati,KI,KIR,296,Child labour thresholds (household chores),2019,12.5,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Kyrgyzstan,KG,KGZ,417,Child labour thresholds (household chores),2018,7.7,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Kyrgyzstan,KG,KGZ,417,Child labour thresholds (household chores),2018,3.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Kyrgyzstan,KG,KGZ,417,Child labour thresholds (household chores),2018,5.5,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Lao People's Democratic Republic,LA,LAO,418,Child labour thresholds (household chores),2017,7.2,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Lao People's Democratic Republic,LA,LAO,418,Child labour thresholds (household chores),2017,3.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Lao People's Democratic Republic,LA,LAO,418,Child labour thresholds (household chores),2017,5.2,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Lesotho,LS,LSO,426,Child labour thresholds (household chores),2018,10.4,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Lesotho,LS,LSO,426,Child labour thresholds (household chores),2018,7.1,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Lesotho,LS,LSO,426,Child labour thresholds (household chores),2018,8.7,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Liberia,LR,LBR,430,Child labour thresholds (household chores),2020,15.5,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Liberia,LR,LBR,430,Child labour thresholds (household chores),2020,12.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Liberia,LR,LBR,430,Child labour thresholds (household chores),2020,13.9,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Madagascar,MG,MDG,450,Child labour thresholds (household chores),2018,17.8,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Madagascar,MG,MDG,450,Child labour thresholds (household chores),2018,11.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Madagascar,MG,MDG,450,Child labour thresholds (household chores),2018,14.5,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Malawi,MW,MWI,454,Child labour thresholds (household chores),2020,8.7,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Malawi,MW,MWI,454,Child labour thresholds (household chores),2020,3.4,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Malawi,MW,MWI,454,Child labour thresholds (household chores),2020,6,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mali,ML,MLI,466,Child labour thresholds (household chores),2015,14.2,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mali,ML,MLI,466,Child labour thresholds (household chores),2015,7.1,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mali,ML,MLI,466,Child labour thresholds (household chores),2015,10.6,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mauritania,MR,MRT,478,Child labour thresholds (household chores),2015,5,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mauritania,MR,MRT,478,Child labour thresholds (household chores),2015,2.4,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mauritania,MR,MRT,478,Child labour thresholds (household chores),2015,3.8,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mexico,MX,MEX,484,Child labour thresholds (household chores),2015,1,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mexico,MX,MEX,484,Child labour thresholds (household chores),2015,1.1,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mexico,MX,MEX,484,Child labour thresholds (household chores),2015,1.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mongolia,MN,MNG,496,Child labour thresholds (household chores),2018,10,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mongolia,MN,MNG,496,Child labour thresholds (household chores),2018,11.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mongolia,MN,MNG,496,Child labour thresholds (household chores),2018,11,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Montenegro,ME,MNE,499,Child labour thresholds (household chores),2018,.2,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Montenegro,ME,MNE,499,Child labour thresholds (household chores),2018,.1,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Montenegro,ME,MNE,499,Child labour thresholds (household chores),2018,.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Mozambique,MZ,MOZ,508,Child labour thresholds (household chores),2008,.5,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Mozambique,MZ,MOZ,508,Child labour thresholds (household chores),2008,.4,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Mozambique,MZ,MOZ,508,Child labour thresholds (household chores),2008,.4,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Nepal,NP,NPL,524,Child labour thresholds (household chores),2014,11.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Nepal,NP,NPL,524,Child labour thresholds (household chores),2014,4.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Nepal,NP,NPL,524,Child labour thresholds (household chores),2014,8.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Niger,NE,NER,562,Child labour thresholds (household chores),2012,24.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Niger,NE,NER,562,Child labour thresholds (household chores),2012,16.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Niger,NE,NER,562,Child labour thresholds (household chores),2012,20.3,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Nigeria,NG,NGA,566,Child labour thresholds (household chores),2017,9.5,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Nigeria,NG,NGA,566,Child labour thresholds (household chores),2017,7,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Nigeria,NG,NGA,566,Child labour thresholds (household chores),2017,8.3,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Child labour thresholds (household chores),2019,.6,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Child labour thresholds (household chores),2019,.6,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Child labour thresholds (household chores),2019,.6,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Paraguay,PY,PRY,600,Child labour thresholds (household chores),2016,5.1,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Paraguay,PY,PRY,600,Child labour thresholds (household chores),2016,2.2,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Paraguay,PY,PRY,600,Child labour thresholds (household chores),2016,3.7,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Rwanda,RW,RWA,646,Child labour thresholds (household chores),2010,35.4,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Rwanda,RW,RWA,646,Child labour thresholds (household chores),2010,29.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Rwanda,RW,RWA,646,Child labour thresholds (household chores),2010,32.6,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Saint Lucia,LC,LCA,662,Child labour thresholds (household chores),2012,.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Saint Lucia,LC,LCA,662,Child labour thresholds (household chores),2012,0,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Saint Lucia,LC,LCA,662,Child labour thresholds (household chores),2012,.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Samoa,WS,WSM,882,Child labour thresholds (household chores),2020,1.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Samoa,WS,WSM,882,Child labour thresholds (household chores),2020,2.4,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Samoa,WS,WSM,882,Child labour thresholds (household chores),2020,1.9,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Sao Tome and Principe,ST,STP,678,Child labour thresholds (household chores),2019,7.4,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Sao Tome and Principe,ST,STP,678,Child labour thresholds (household chores),2019,3,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Sao Tome and Principe,ST,STP,678,Child labour thresholds (household chores),2019,5.2,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Senegal,SN,SEN,686,Child labour thresholds (household chores),2016,13,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Senegal,SN,SEN,686,Child labour thresholds (household chores),2016,2.7,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Senegal,SN,SEN,686,Child labour thresholds (household chores),2016,7.8,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Serbia,RS,SRB,688,Child labour thresholds (household chores),2019,1.2,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Serbia,RS,SRB,688,Child labour thresholds (household chores),2019,.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Serbia,RS,SRB,688,Child labour thresholds (household chores),2019,.8,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Sierra Leone,SL,SLE,694,Child labour thresholds (household chores),2017,12.7,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Sierra Leone,SL,SLE,694,Child labour thresholds (household chores),2017,8.2,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Sierra Leone,SL,SLE,694,Child labour thresholds (household chores),2017,10.5,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Somalia,SO,SOM,706,Child labour thresholds (household chores),2006,62,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Somalia,SO,SOM,706,Child labour thresholds (household chores),2006,35.3,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Somalia,SO,SOM,706,Child labour thresholds (household chores),2006,48.5,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+"Palestinian Territory, Occupied",PS,PSE,275,Child labour thresholds (household chores),2020,1.5,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+"Palestinian Territory, Occupied",PS,PSE,275,Child labour thresholds (household chores),2020,.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+"Palestinian Territory, Occupied",PS,PSE,275,Child labour thresholds (household chores),2020,1,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Sudan,SD,SDN,736,Child labour thresholds (household chores),2014,4.8,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Sudan,SD,SDN,736,Child labour thresholds (household chores),2014,2.6,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Sudan,SD,SDN,736,Child labour thresholds (household chores),2014,3.7,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Suriname,SR,SUR,740,Child labour thresholds (household chores),2018,1.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Suriname,SR,SUR,740,Child labour thresholds (household chores),2018,.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Suriname,SR,SUR,740,Child labour thresholds (household chores),2018,1,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Syrian Arab Republic,SY,SYR,760,Child labour thresholds (household chores),2006,2.8,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Syrian Arab Republic,SY,SYR,760,Child labour thresholds (household chores),2006,1,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Syrian Arab Republic,SY,SYR,760,Child labour thresholds (household chores),2006,1.9,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Tajikistan,TJ,TJK,762,Child labour thresholds (household chores),2005,25.5,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Tajikistan,TJ,TJK,762,Child labour thresholds (household chores),2005,19.9,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Tajikistan,TJ,TJK,762,Child labour thresholds (household chores),2005,22.6,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Thailand,TH,THA,764,Child labour thresholds (household chores),2006,2.8,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Thailand,TH,THA,764,Child labour thresholds (household chores),2006,1.9,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Thailand,TH,THA,764,Child labour thresholds (household chores),2006,2.3,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Togo,TG,TGO,768,Child labour thresholds (household chores),2017,21,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Togo,TG,TGO,768,Child labour thresholds (household chores),2017,12.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Togo,TG,TGO,768,Child labour thresholds (household chores),2017,16.3,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Tonga,TO,TON,776,Child labour thresholds (household chores),2019,.1,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Tonga,TO,TON,776,Child labour thresholds (household chores),2019,1.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Tonga,TO,TON,776,Child labour thresholds (household chores),2019,1,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Trinidad and Tobago,TT,TTO,780,Child labour thresholds (household chores),2011,0,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Trinidad and Tobago,TT,TTO,780,Child labour thresholds (household chores),2011,.1,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Trinidad and Tobago,TT,TTO,780,Child labour thresholds (household chores),2011,0,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Tunisia,TN,TUN,788,Child labour thresholds (household chores),2012,.8,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Tunisia,TN,TUN,788,Child labour thresholds (household chores),2012,.2,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Tunisia,TN,TUN,788,Child labour thresholds (household chores),2012,.5,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Turkmenistan,TM,TKM,795,Child labour thresholds (household chores),2016,0,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Turkmenistan,TM,TKM,795,Child labour thresholds (household chores),2016,0,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Turkmenistan,TM,TKM,795,Child labour thresholds (household chores),2016,0,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Turks and Caicos Islands,TC,TCA,796,Child labour thresholds (household chores),2020,1.4,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Turks and Caicos Islands,TC,TCA,796,Child labour thresholds (household chores),2020,3.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Turks and Caicos Islands,TC,TCA,796,Child labour thresholds (household chores),2020,2.7,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Tuvalu,TV,TUV,798,Child labour thresholds (household chores),2020,0,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Tuvalu,TV,TUV,798,Child labour thresholds (household chores),2020,0,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Tuvalu,TV,TUV,798,Child labour thresholds (household chores),2020,0,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Ukraine,UA,UKR,804,Child labour thresholds (household chores),2012,1.3,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Ukraine,UA,UKR,804,Child labour thresholds (household chores),2012,.9,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Ukraine,UA,UKR,804,Child labour thresholds (household chores),2012,1.1,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Viet Nam,VN,VNM,704,Child labour thresholds (household chores),2014,2.6,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Viet Nam,VN,VNM,704,Child labour thresholds (household chores),2014,1.5,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Viet Nam,VN,VNM,704,Child labour thresholds (household chores),2014,2,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Yemen,YE,YEM,887,Child labour thresholds (household chores),2006,34.5,Female,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Yemen,YE,YEM,887,Child labour thresholds (household chores),2006,14.9,Male,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Yemen,YE,YEM,887,Child labour thresholds (household chores),2006,24.6,Total,,%,Estimated value,Free,End of fieldwork,10 to 14 years old
+Zimbabwe,ZW,ZWE,716,Child labour thresholds (household chores),2019,7,Female,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Zimbabwe,ZW,ZWE,716,Child labour thresholds (household chores),2019,2.8,Male,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
+Zimbabwe,ZW,ZWE,716,Child labour thresholds (household chores),2019,4.8,Total,,%,Estimated value,Free,End of fieldwork,10 to 17 years old
